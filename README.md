@@ -172,7 +172,7 @@ repository at `recipes/<your-name>/<recipe>/`. Creators on the
 - **Your byline.** Published recipes carry your name and live at a permanent path built from it:
   `recipes/<your-name>/<recipe>/` in this repository and on intempt.com.
 - **Licence.** Published recipes are distributed under this repository's [licence](LICENSE)
-  (CC BY 4.0) with attribution preserved. Copyright in each recipe stays with its author.
+  (MIT) with attribution preserved. Copyright in each recipe stays with its author.
 - **Withdrawal.** There is no self-service button yet, so it goes through a person. Email
   hey@intempt.com with "Recipe withdrawal, for Somya" and your submission ID.
 
